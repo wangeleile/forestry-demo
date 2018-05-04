@@ -1,5 +1,5 @@
 ---
-title: 'Electric Vehicle '
+title: Electric Vehicle Blah
 tags:
 - research
 date: 2018-02-25 19:07:50 +0000
